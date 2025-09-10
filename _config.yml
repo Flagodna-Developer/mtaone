@@ -1,0 +1,11 @@
+# _config.yml
+
+# Basic settings
+title: MTA ONE - FlagoDNA Developer
+description: Satu Aplikasi Beragam Isi
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site metadata
+url: "https://flagodna-developer.github.io/mtaone"
+author: "FlagoDNA Developer Labs"
