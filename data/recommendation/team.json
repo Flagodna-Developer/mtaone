@@ -1,0 +1,24 @@
+{
+  "team": [
+    {
+      "name": "Cahyanudien Aziz",
+      "address": "🏠 mta cabang sukodono 3, sragen",
+      "positions": [
+        "App Developer",
+        "UI/UX Designer",
+        "Backend Developer",
+        "Admin Apps"
+      ],
+      "socialLinks": {
+        "GitHub": "https://github.com/cas8398",
+        "Instagram": "https://www.instagram.com/cas8398/"
+      },
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47025238?v=4",
+      "quote": "Karena satu dan lain hal, mungkin update konten akan terlambat. mohon dimaklumi."
+    }
+  ],
+  "info": {
+    "text": "Ada ide agar aplikasi lebih baik lagi?",
+    "link": "https://chat.whatsapp.com/If6oacpayug9XTxClxgX80"
+  }
+}
