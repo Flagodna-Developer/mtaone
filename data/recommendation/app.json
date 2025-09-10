@@ -36,13 +36,15 @@
   },
   {
     "id": "6",
-    "judul": "FastiQuran - Al Quran Tanpa Iklan",
+    "judul": "FastiQuran",
+    "subjudul": "Aplikasi Al Quran Tanpa Iklan",
     "icon": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=s64-rw",
     "link": "https://play.google.com/store/apps/details?id=com.flagodna.fastiquran"
   },
   {
     "id": "7",
-    "judul": "Sheeply - Game sabelum tidur (Lompat Domba)",
+    "judul": "Sheeply",
+    "subjudul": "Game sabelum tidur (Lompat Domba)",
     "icon": "https://play-lh.googleusercontent.com/BoNLIwbW0sVdcs0Kwzbtn-08F-6ZM8pk-Q2VdKsVE1AmTURNlLwFAVPU4FPWCZUzB1P-7dBSuord_UD4hGWiAg=s64-rw",
     "link": "https://play.google.com/store/apps/details?id=com.flagodna.sheeply"
   }
