@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Baru! Kami telah merilis aplikasi AmalanKu!",
+    "subtitle": "Aplikasi ini bermanfaat untuk membantu Anda bermuhasabah dan beristiqamah dalam amal sehari-hari.\n\n📲 Unduh sekarang di Playstore dan mulai perjalanan kebaikan Anda.",
+    "image": "",
+    "urlClick": "https://play.google.com/store/apps/details?id=com.flagodna.amalanku",
+    "modeBrowser": "external",
+    "labelBrowser": "LinkBottomInfo",
+    "textColor": "#E0E0E0",
+    "subtitleColor": "#E0E0E0",
+    "fontSize": 0,
+    "subtitleSize": 0,
+    "fontWeight": "",
+    "subtitleWeight": "",
+    "textAlign": "center",
+    "imageHeight": 0,
+    "imageWidth": 0,
+    "imageRadius": 0,
+    "backgroundColor": "#1c1c1c",
+    "margin": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "padding": {
+      "top": 12,
+      "right": 12,
+      "bottom": 0,
+      "left": 12
+    },
+    "showDivider": false,
+    "dividerColor": "",
+    "dividerHeight": 1,
+    "dividerIndent": 0,
+    "dividerEndIndent": 0
+  }
+]
