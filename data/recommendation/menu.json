@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Brosur MTA Lengkap",
+    "subtitle": "Kumpulan brosur MTA, dari tahun 1995 - sekarang",
+    "packageName": "com.flagodna.brosurmta",
+    "playStoreUrl": "market://details?id=com.flagodna.brosurmta",
+    "imageUrl": "https://play-lh.googleusercontent.com/KoiQn3ePVE-MajrfG0ITX5sp_ebZpDsYGMW-ufZGlBkKiUd8g_SBB7PDhz1hibnBGSU=s64-rw",
+    "category": "Quran",
+    "priority": 10
+  },
+  {
+    "id": "2",
+    "name": "Hadis Ku",
+    "subtitle": "Hadist lengkap 14 imam dengan AI chatbot",
+    "packageName": "com.flagodna.hadisku",
+    "playStoreUrl": "market://details?id=com.flagodna.hadisku",
+    "imageUrl": "https://play-lh.googleusercontent.com/GnOMgcv0KdC0VPmziw_nhT8S3MHtNwFiD0qg6oFgUUICSKH62FgVrqxC8_2cnOs03qGt=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "3",
+    "name": "AmalanKu",
+    "subtitle": "Amalan harian muslim lengkap dengan pengingat",
+    "packageName": "com.flagodna.amalanku",
+    "playStoreUrl": "market://details?id=com.flagodna.amalanku",
+    "imageUrl": "https://play-lh.googleusercontent.com/GnOMgcv0KdC0VPmziw_nhT8S3MHtNwFiD0qg6oFgUUICSKH62FgVrqxC8_2cnOs03qGt=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  }
+]
