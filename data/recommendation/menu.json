@@ -48,5 +48,15 @@
     "imageUrl": "https://play-lh.googleusercontent.com/I-6OP4h6QYRd5bkER5J8fcV0Cji9A4unzgMScUc0ROkJEt1VRtTSaBVgCh5Md00SpOmlmn0WU0QTihVBTrc0bQ=s64-rw",
     "category": "Prayer",
     "priority": 9
+  },
+  {
+    "id": "5",
+    "name": "Lens Browser",
+    "subtitle": "Peramban web ringan dengan pemblokir iklan, penjaga privasi, dan peringatan situs berbahaya.",
+    "packageName": "com.flagodna.lensbrowser",
+    "playStoreUrl": "market://details?id=com.flagodna.lensbrowser",
+    "imageUrl": "https://play-lh.googleusercontent.com/aVZtzfMqE6wnLw9_Ix1kRkir2AVX2BgoATnzZs1B0GRU3mhvM2A_wUPTP2Q0pVarPXdWtxiAwxkW6RdW9BvUeSM=s64-rw",
+    "category": "Prayer",
+    "priority": 9
   }
 ]
