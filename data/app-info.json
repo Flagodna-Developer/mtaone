@@ -2,5 +2,5 @@
   "enableSupporter": true,
   "enableAppOpenSupporter": true,
   "enableAds": true,
-  "enableFooter": true
+  "enableFooter": false
 }
