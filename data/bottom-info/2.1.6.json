@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Aplikasi Ini Gratis Karena Allah 💙",
+    "subtitle": "Namun iklan saja belum cukup untuk biaya server. Kamu bisa mendukung lewat sedekah seikhlasnya atau melalui IAP di tab Pengaturan. InsyaAllah setiap dukunganmu membantu aplikasi ini terus hidup & bermanfaat bagi ribuan orang — semoga jadi amal jariyah kita bersama 🤲",
+    "image": "",
+    "urlClick": "https://dukung.flagodna.com",
+    "modeBrowser": "external",
+    "labelBrowser": "LinkBottomInfo",
+    "textColor": "#E0E0E0",
+    "subtitleColor": "#CFCFCF",
+    "fontSize": 0,
+    "subtitleSize": 0,
+    "fontWeight": "",
+    "subtitleWeight": "",
+    "textAlign": "center",
+    "imageHeight": 0,
+    "imageWidth": 0,
+    "imageRadius": 0,
+    "backgroundColor": "#1c1c1c",
+    "margin": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "padding": {
+      "top": 12,
+      "right": 12,
+      "bottom": 12,
+      "left": 12
+    },
+    "showDivider": false,
+    "dividerColor": "",
+    "dividerHeight": 1,
+    "dividerIndent": 0,
+    "dividerEndIndent": 0
+  }
+]
