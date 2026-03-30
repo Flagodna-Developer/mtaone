@@ -1,6 +1,6 @@
 {
-  "enableSupporter": true,
-  "enableAppOpenSupporter": true,
-  "enableAds": true,
-  "enableFooter": false
+  "enableSupporter": false,
+  "enableAppOpenSupporter": false,
+  "enableAds": false,
+  "enableFooter": true
 }
